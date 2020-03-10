@@ -1,0 +1,6 @@
+In this project I tried to train and test my model using linear regression. The Dataset was provided in the link below.
+
+The goal was to predict the grades of the students using only 5 parameters. I achieved a prediction accuracy of 85-95
+approximentaly.
+
+Using more parameters someone can achieve far more accuracy but this was only a first test in ML algorithms.
