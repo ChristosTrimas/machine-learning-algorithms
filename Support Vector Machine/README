@@ -1,0 +1,2 @@
+In this example I imported a dataset from sklearn and I trained and compared my model using SVM and KNN algorithms.
+The results are for linear kernel in SVM with C=0, C=2 and C=8, while for the KNN algorithm the number of neigbors are 1,9 and 9.
