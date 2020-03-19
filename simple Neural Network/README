@@ -1,0 +1,2 @@
+This is a simple NN using tensorflow and keras. The input layer has (28x28) neurons the hidden layer 128 and the output layer 10.
+As input we get pictures from a dataset given by keras and the output is the identification of that item with up to 90% accuracy.
