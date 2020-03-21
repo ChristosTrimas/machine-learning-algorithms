@@ -1,0 +1,2 @@
+In this folder you can find my implementation of the PCA algorithm. It also includes code for feature normalization, projection and recover.
+The implementation was done in MatLab2019
